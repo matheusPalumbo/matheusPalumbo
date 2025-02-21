@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Matheus Palumbo 😁
+## Bem-vindo(a) ao perfil do Matheus Palumbo 🧐
 
  <div>
    <a href="https://github.com/matheusPalumbo">
