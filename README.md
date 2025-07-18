@@ -1,10 +1,5 @@
 ## Bem-vindo(a) ao perfil do Matheus Palumbo 🧐
 
- <div>
-   <a href="https://github.com/matheusPalumbo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusPalumbo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPalumbo&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
 
 <br>
     
